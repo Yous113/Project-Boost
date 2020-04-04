@@ -105,4 +105,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementVector: {x: 6, y: 0, z: 0}
-  movementFactor: 1
+  period: 0
